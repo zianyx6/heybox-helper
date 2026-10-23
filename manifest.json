@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "黑盒助手",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "description": "小黑盒统一社区与消息界面、主题配色、双栏评论和连续页面预览",
   "permissions": [
     "cookies",

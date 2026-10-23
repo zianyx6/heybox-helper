@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 250" role="img" aria-labelledby="title desc">
+  <title id="title">黑盒助手的小伙伴</title>
+  <desc id="desc">戴着樱花粉蝴蝶结的圆润小黑盒，正挥手打招呼。</desc>
+  <defs>
+    <linearGradient id="body" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#34343e"/>
+      <stop offset="1" stop-color="#171923"/>
+    </linearGradient>
+    <linearGradient id="bow" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffb6d1"/>
+      <stop offset="1" stop-color="#f27eaa"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="210" cy="218" rx="113" ry="17" fill="#edc7d7" opacity=".34"/>
+  <circle cx="93" cy="104" r="37" fill="#ffe6ef"/>
+  <circle cx="330" cy="75" r="24" fill="#fff0bd"/>
+  <path d="m82 69 5-14 7 13 14 4-13 7-5 14-6-13-14-5Zm245 83 4-11 6 10 11 4-10 6-4 11-5-10-11-4Z" fill="#f5a1bf"/>
+  <path d="M162 81 145 55q-5-9 6-10l27 15m80 21 18-26q6-8-5-11l-29 13" fill="url(#body)" stroke="#20212b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M140 101q0-35 35-35h71q35 0 35 35v64q0 29-31 29h-79q-31 0-31-29Z" fill="url(#body)" stroke="#20212b" stroke-width="5"/>
+  <rect x="163" y="92" width="95" height="66" rx="25" fill="#f8f7fb"/>
+  <ellipse cx="188" cy="119" rx="5" ry="8" fill="#333440"/>
+  <ellipse cx="233" cy="119" rx="5" ry="8" fill="#333440"/>
+  <path d="M202 132q8 8 16 0" fill="none" stroke="#333440" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="176" cy="132" rx="8" ry="4" fill="#f6a7c0" opacity=".72"/>
+  <ellipse cx="245" cy="132" rx="8" ry="4" fill="#f6a7c0" opacity=".72"/>
+  <path d="M153 184q-20 13-28 1m139 0q18 13 27-2" fill="none" stroke="#252630" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 193q-8 13-4 19m58-19q8 13 4 19" fill="none" stroke="#252630" stroke-width="9" stroke-linecap="round"/>
+  <path d="M174 61q-25-18-16-28 8-9 23 8 10-22 21-15 10 7-5 29m11 2q25-20 33-8 7 10-15 21 20 13 11 22-9 9-28-11-17 19-27 10-9-9 10-26Z" fill="url(#bow)" stroke="#e978a4" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="190" cy="57" r="7" fill="#ffe8f0"/>
+  <path d="M304 42q0-15 12-15 12 0 12 15m-12-14v24m-12-12h24" fill="none" stroke="#d995ad" stroke-width="3" stroke-linecap="round"/>
+  <text x="210" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="600" fill="#9b7182">陪你逛社区的小帮手</text>
+</svg>
