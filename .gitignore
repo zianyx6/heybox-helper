@@ -1,0 +1,17 @@
+# Local browser/test data
+work/
+outputs/
+*.zip
+*.crx
+*.log
+*.har
+*.png
+*.webp
+*.jpg
+*.jpeg
+*.jsonl
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
