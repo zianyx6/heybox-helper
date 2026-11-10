@@ -20,7 +20,7 @@
 
 ### 🚀 三步试用
 
-1. 从 [最新源码](https://github.com/zianyx6/heybox-helper) 下载 ZIP 并解压，找到包含 `manifest.json` 的 `heybox-helper` 文件夹。
+1. [下载黑盒助手 0.11.1 安装包](https://github.com/zianyx6/heybox-helper/raw/refs/heads/main/downloads/heybox-helper-0.11.1.zip)并解压，找到包含 `manifest.json` 的 `heybox-helper` 文件夹。
 2. 打开 `edge://extensions` 或 `chrome://extensions`，开启“开发人员模式”，选择“加载解压缩的扩展”。
 3. 打开[小黑盒社区](https://www.xiaoheihe.cn/app/bbs/home)，点页面右下角“设置”开始调整。完成啦～(ﾉ>ω<)ﾉ
 
